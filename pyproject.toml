@@ -1,0 +1,56 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "c2-dns-detector"
+version = "1.0.0"
+description = "Network Threat Detection Engine: C2 Beaconing via Interval Regularity & Jitter, and DNS Tunneling via Shannon Entropy"
+readme = "README.md"
+requires-python = ">=3.9"
+license = { text = "MIT" }
+authors = [
+    { name = "Cybersecurity Research Lab" }
+]
+classifiers = [
+    "Development Status :: 5 - Production/Stable",
+    "Intended Audience :: Information Technology",
+    "Intended Audience :: Science/Research",
+    "Topic :: Security",
+    "Topic :: System :: Networking :: Monitoring",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+    "License :: OSI Approved :: MIT License",
+]
+dependencies = [
+    "numpy>=1.24.0",
+    "pandas>=2.0.0",
+    "matplotlib>=3.7.0",
+    "seaborn>=0.12.0",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=7.0.0",
+    "pytest-cov>=4.0.0",
+    "flake8>=6.0.0",
+]
+notebooks = [
+    "ipython>=8.10.0",
+    "jupyter-core>=5.0.0",
+]
+
+[project.scripts]
+c2-dns-detector = "c2_dns_detector.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["c2_dns_detector*"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+python_files = ["test_*.py"]
