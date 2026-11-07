@@ -1,0 +1,2822 @@
+[
+  {
+    "query": "1633e530b5260e466eae34b22fa18c4c9532cf49394c5036e61d1f3e208a.dnscat-tunnel.attacker-c2.net",
+    "tool": "dnscat2",
+    "parent_domain": "dnscat-tunnel.attacker-c2.net",
+    "is_tunneling": 1
+  },
+  {
+    "query": "c0c2c429bec3c96792aad251683cdc407cd9bd61bb4d8994.dnscat-tunnel.attacker-c2.net",
+    "tool": "dnscat2",
+    "parent_domain": "dnscat-tunnel.attacker-c2.net",
+    "is_tunneling": 1
+  },
+  {
+    "query": "70e9f9fe6a1129ad590a68f79fa2cc127a74c16bfbdea78636.dnscat-tunnel.attacker-c2.net",
+    "tool": "dnscat2",
+    "parent_domain": "dnscat-tunnel.attacker-c2.net",
+    "is_tunneling": 1
+  },
+  {
+    "query": "47c1ea21a2785ba1da23cf45cd4e9cbe048eea91d372b1ed3911cb86acfbff.dnscat-tunnel.attacker-c2.net",
+    "tool": "dnscat2",
+    "parent_domain": "dnscat-tunnel.attacker-c2.net",
+    "is_tunneling": 1
+  },
+  {
+    "query": "b6bd45f9bff266dc5af040cb4e6b4f3d8c26bc84b03ce126fb81b7485ec82.dnscat-tunnel.attacker-c2.net",
+    "tool": "dnscat2",
+    "parent_domain": "dnscat-tunnel.attacker-c2.net",
+    "is_tunneling": 1
+  },
+  {
+    "query": "83f5428cd610757cd5a6c1b03532f926a695e24e78322f72b0af1337.dnscat-tunnel.attacker-c2.net",
+    "tool": "dnscat2",
+    "parent_domain": "dnscat-tunnel.attacker-c2.net",
+    "is_tunneling": 1
+  },
+  {
+    "query": "36390034b24435ff6a6b1f0e0e7cae1f32e475148fcb8bc70a43e3b5.dnscat-tunnel.attacker-c2.net",
+    "tool": "dnscat2",
+    "parent_domain": "dnscat-tunnel.attacker-c2.net",
+    "is_tunneling": 1
+  },
+  {
+    "query": "26fce01cb9e8f0d8bd0f58f98daca42121c20a127b07d4ce258465201c683d.dnscat-tunnel.attacker-c2.net",
+    "tool": "dnscat2",
+    "parent_domain": "dnscat-tunnel.attacker-c2.net",
+    "is_tunneling": 1
+  },
+  {
+    "query": "50823ebe18a01f3fc2d8892642864a83a8b7161c0e8ce57b254938d2d.dnscat-tunnel.attacker-c2.net",
+    "tool": "dnscat2",
+    "parent_domain": "dnscat-tunnel.attacker-c2.net",
+    "is_tunneling": 1
+  },
+  {
+    "query": "97fab7c7e1256cd878e9f5725a7085e3cb9fcba6ccac7736f4a.dnscat-tunnel.attacker-c2.net",
+    "tool": "dnscat2",
+    "parent_domain": "dnscat-tunnel.attacker-c2.net",
+    "is_tunneling": 1
+  },
+  {
+    "query": "b675355c3207f362ded99ee5ea059a0b376e7d02cec983ecb6c208.dnscat-tunnel.attacker-c2.net",
+    "tool": "dnscat2",
+    "parent_domain": "dnscat-tunnel.attacker-c2.net",
+    "is_tunneling": 1
+  },
+  {
+    "query": "81c293cdc6664595c8bbe5c8cb4c1b457ad41350ba3df5e657d6ad56.dnscat-tunnel.attacker-c2.net",
+    "tool": "dnscat2",
+    "parent_domain": "dnscat-tunnel.attacker-c2.net",
+    "is_tunneling": 1
+  },
+  {
+    "query": "62c60187cd04e88319d76e39752e48e77b985b5678146ed9eac94a9fed101.dnscat-tunnel.attacker-c2.net",
+    "tool": "dnscat2",
+    "parent_domain": "dnscat-tunnel.attacker-c2.net",
+    "is_tunneling": 1
+  },
+  {
+    "query": "f6da8bc1ea790c84fe474a5de5692acbee5f378d5ae6208cf8e.dnscat-tunnel.attacker-c2.net",
+    "tool": "dnscat2",
+    "parent_domain": "dnscat-tunnel.attacker-c2.net",
+    "is_tunneling": 1
+  },
+  {
+    "query": "39d9723fc95341f07ab03eb2219a2f6346d8f6e770d6730b11a.dnscat-tunnel.attacker-c2.net",
+    "tool": "dnscat2",
+    "parent_domain": "dnscat-tunnel.attacker-c2.net",
+    "is_tunneling": 1
+  },
+  {
+    "query": "8c2faafdaa865bc288ab053dbdb77810a349c64117ed9830cf5.dnscat-tunnel.attacker-c2.net",
+    "tool": "dnscat2",
+    "parent_domain": "dnscat-tunnel.attacker-c2.net",
+    "is_tunneling": 1
+  },
+  {
+    "query": "2828618e3c9a946007a1cd577041008162b96872331e76888bf23900.dnscat-tunnel.attacker-c2.net",
+    "tool": "dnscat2",
+    "parent_domain": "dnscat-tunnel.attacker-c2.net",
+    "is_tunneling": 1
+  },
+  {
+    "query": "e1f25c34ed6140ad0fba316715a7dfd70e20fd7c684f740df2.dnscat-tunnel.attacker-c2.net",
+    "tool": "dnscat2",
+    "parent_domain": "dnscat-tunnel.attacker-c2.net",
+    "is_tunneling": 1
+  },
+  {
+    "query": "f8616723cc78cb5b0e9bdbec90ae1f8c0926a6ee1f8ba03998a0a3.dnscat-tunnel.attacker-c2.net",
+    "tool": "dnscat2",
+    "parent_domain": "dnscat-tunnel.attacker-c2.net",
+    "is_tunneling": 1
+  },
+  {
+    "query": "5ea7730ea2ea21fb313094060eaa645c863408561b9cf239b.dnscat-tunnel.attacker-c2.net",
+    "tool": "dnscat2",
+    "parent_domain": "dnscat-tunnel.attacker-c2.net",
+    "is_tunneling": 1
+  },
+  {
+    "query": "feaea26c6339af0b586cd6b5a24575b01aba4d9b3dd771317a09bde44.dnscat-tunnel.attacker-c2.net",
+    "tool": "dnscat2",
+    "parent_domain": "dnscat-tunnel.attacker-c2.net",
+    "is_tunneling": 1
+  },
+  {
+    "query": "f7aafd5005c610b167df2beb069a717b61c053393f74f31719.dnscat-tunnel.attacker-c2.net",
+    "tool": "dnscat2",
+    "parent_domain": "dnscat-tunnel.attacker-c2.net",
+    "is_tunneling": 1
+  },
+  {
+    "query": "1e39c29b8bdbb242adca525466d637c9c74ac4e3bf7e34187dac64.dnscat-tunnel.attacker-c2.net",
+    "tool": "dnscat2",
+    "parent_domain": "dnscat-tunnel.attacker-c2.net",
+    "is_tunneling": 1
+  },
+  {
+    "query": "1ac2af33033bc1134369fbc3e82518a58cfa85dc77b6126831a9fcc.dnscat-tunnel.attacker-c2.net",
+    "tool": "dnscat2",
+    "parent_domain": "dnscat-tunnel.attacker-c2.net",
+    "is_tunneling": 1
+  },
+  {
+    "query": "2e60ffb1f01d5b39072e5a4adb6eae3399e31f5371ed2eec33c.dnscat-tunnel.attacker-c2.net",
+    "tool": "dnscat2",
+    "parent_domain": "dnscat-tunnel.attacker-c2.net",
+    "is_tunneling": 1
+  },
+  {
+    "query": "03c06369f9294aab88c60f1ae4262b621356a1bf267b042076881b.dnscat-tunnel.attacker-c2.net",
+    "tool": "dnscat2",
+    "parent_domain": "dnscat-tunnel.attacker-c2.net",
+    "is_tunneling": 1
+  },
+  {
+    "query": "df0d5ff16e565c3aa1637be1251bce377e1492b85555480a7.dnscat-tunnel.attacker-c2.net",
+    "tool": "dnscat2",
+    "parent_domain": "dnscat-tunnel.attacker-c2.net",
+    "is_tunneling": 1
+  },
+  {
+    "query": "0f83731fe033adc3ca7d29eb3f5fae4f10ed4d5e230a6ef04bb72971e27.dnscat-tunnel.attacker-c2.net",
+    "tool": "dnscat2",
+    "parent_domain": "dnscat-tunnel.attacker-c2.net",
+    "is_tunneling": 1
+  },
+  {
+    "query": "a7dde650fb67eebc888dbe9728ff5181ab3289bf1703cfa4d1ae911c41.dnscat-tunnel.attacker-c2.net",
+    "tool": "dnscat2",
+    "parent_domain": "dnscat-tunnel.attacker-c2.net",
+    "is_tunneling": 1
+  },
+  {
+    "query": "488827b0a33d2adc20308b6f25fb9dd283bf5827570dc66ba56e480b503ca.dnscat-tunnel.attacker-c2.net",
+    "tool": "dnscat2",
+    "parent_domain": "dnscat-tunnel.attacker-c2.net",
+    "is_tunneling": 1
+  },
+  {
+    "query": "80a047981ac08c4a0c50a362ea4df067421e6f7285cb73ddac14765ad9ac.dnscat-tunnel.attacker-c2.net",
+    "tool": "dnscat2",
+    "parent_domain": "dnscat-tunnel.attacker-c2.net",
+    "is_tunneling": 1
+  },
+  {
+    "query": "75d963e426dce048ce02a7bb55c8f56d34253a470c5e7c1cb8.dnscat-tunnel.attacker-c2.net",
+    "tool": "dnscat2",
+    "parent_domain": "dnscat-tunnel.attacker-c2.net",
+    "is_tunneling": 1
+  },
+  {
+    "query": "a293ba3b0afc8922af3a11c2fe416df66a7c533af2ee08ca972.dnscat-tunnel.attacker-c2.net",
+    "tool": "dnscat2",
+    "parent_domain": "dnscat-tunnel.attacker-c2.net",
+    "is_tunneling": 1
+  },
+  {
+    "query": "b36baf316d3baf9dc62e03470ac6c2aec4c49307e2bee7f3b37ad0.dnscat-tunnel.attacker-c2.net",
+    "tool": "dnscat2",
+    "parent_domain": "dnscat-tunnel.attacker-c2.net",
+    "is_tunneling": 1
+  },
+  {
+    "query": "464318a385c1a9601d98286b05f298abca6f674f05f8a365ed8ae43bf4d.dnscat-tunnel.attacker-c2.net",
+    "tool": "dnscat2",
+    "parent_domain": "dnscat-tunnel.attacker-c2.net",
+    "is_tunneling": 1
+  },
+  {
+    "query": "5bc45b431ef7efec2da88de0aec4d82a1e3131f10f72e8cf84.dnscat-tunnel.attacker-c2.net",
+    "tool": "dnscat2",
+    "parent_domain": "dnscat-tunnel.attacker-c2.net",
+    "is_tunneling": 1
+  },
+  {
+    "query": "e9654e7f2b02351d9dbb3d786ba6171f323827e9ec43a7dafe076.dnscat-tunnel.attacker-c2.net",
+    "tool": "dnscat2",
+    "parent_domain": "dnscat-tunnel.attacker-c2.net",
+    "is_tunneling": 1
+  },
+  {
+    "query": "8521943506bab48f9c676bbd5513eebb396eec701a58cf378352d.dnscat-tunnel.attacker-c2.net",
+    "tool": "dnscat2",
+    "parent_domain": "dnscat-tunnel.attacker-c2.net",
+    "is_tunneling": 1
+  },
+  {
+    "query": "6e5c93c1fe00bf1dd8d03915dc066a5813103d769f363d28e6149.dnscat-tunnel.attacker-c2.net",
+    "tool": "dnscat2",
+    "parent_domain": "dnscat-tunnel.attacker-c2.net",
+    "is_tunneling": 1
+  },
+  {
+    "query": "5ed5cc997b88a2448919c7bd5ce677404e9f99a4dc065517dd1e2f1a.dnscat-tunnel.attacker-c2.net",
+    "tool": "dnscat2",
+    "parent_domain": "dnscat-tunnel.attacker-c2.net",
+    "is_tunneling": 1
+  },
+  {
+    "query": "5278fc26bb850272d8902a11982fea7653cad48c5decb7f0964d24e2bccef5.dnscat-tunnel.attacker-c2.net",
+    "tool": "dnscat2",
+    "parent_domain": "dnscat-tunnel.attacker-c2.net",
+    "is_tunneling": 1
+  },
+  {
+    "query": "f7c5ecb16464899a73d5896b2c49eed33c40003da28c6c42ce9994457e8a.dnscat-tunnel.attacker-c2.net",
+    "tool": "dnscat2",
+    "parent_domain": "dnscat-tunnel.attacker-c2.net",
+    "is_tunneling": 1
+  },
+  {
+    "query": "b951e1213028db668bb3e2783e82c1ef1698704b6d73bde6f7.dnscat-tunnel.attacker-c2.net",
+    "tool": "dnscat2",
+    "parent_domain": "dnscat-tunnel.attacker-c2.net",
+    "is_tunneling": 1
+  },
+  {
+    "query": "bf461ae44688626b3de2ad251ea437db0bb7009a4e45f19c98721.dnscat-tunnel.attacker-c2.net",
+    "tool": "dnscat2",
+    "parent_domain": "dnscat-tunnel.attacker-c2.net",
+    "is_tunneling": 1
+  },
+  {
+    "query": "de627d6fba9d24cecfc241fa8d252662487a7969c930c9dd88c.dnscat-tunnel.attacker-c2.net",
+    "tool": "dnscat2",
+    "parent_domain": "dnscat-tunnel.attacker-c2.net",
+    "is_tunneling": 1
+  },
+  {
+    "query": "v4.jalm7fwx13x8z7qe61gtm7psfwquq5vuhoo07kyo9vqg5vod.t1.iodine-exfil.xyz",
+    "tool": "iodine",
+    "parent_domain": "t1.iodine-exfil.xyz",
+    "is_tunneling": 1
+  },
+  {
+    "query": "v4.89yd76quklgy9ubjmhd61g98qimlsbdy47mq2q1p2ocesakwppnn3kdt.t1.iodine-exfil.xyz",
+    "tool": "iodine",
+    "parent_domain": "t1.iodine-exfil.xyz",
+    "is_tunneling": 1
+  },
+  {
+    "query": "v4.wero3tev9bo46bq1vuzkz9u5ziehvv55lqbau6yf0eocjoipxq.t1.iodine-exfil.xyz",
+    "tool": "iodine",
+    "parent_domain": "t1.iodine-exfil.xyz",
+    "is_tunneling": 1
+  },
+  {
+    "query": "v4.j29ybl0j6mwezocwur2eb1ohiv0i7tmwpnahy6zk57r7v8u.t1.iodine-exfil.xyz",
+    "tool": "iodine",
+    "parent_domain": "t1.iodine-exfil.xyz",
+    "is_tunneling": 1
+  },
+  {
+    "query": "v4.bripe9h2f1n49c0c3qsvrbbtcbdfi5zj07f68l4q6d54jt0vsv.t1.iodine-exfil.xyz",
+    "tool": "iodine",
+    "parent_domain": "t1.iodine-exfil.xyz",
+    "is_tunneling": 1
+  },
+  {
+    "query": "v4.zmqnppkr0qqlglyed1bxhpmd4a0dp7679g3tugxvuzkcw.t1.iodine-exfil.xyz",
+    "tool": "iodine",
+    "parent_domain": "t1.iodine-exfil.xyz",
+    "is_tunneling": 1
+  },
+  {
+    "query": "v4.7fk0j36579vd5e6wo7qyqy8whjh07v3yr2nyffymhz8vcwes5.t1.iodine-exfil.xyz",
+    "tool": "iodine",
+    "parent_domain": "t1.iodine-exfil.xyz",
+    "is_tunneling": 1
+  },
+  {
+    "query": "v4.n10luya5sjst4184xlwngzzjznqe03t91eg09b70w9vn7qd.t1.iodine-exfil.xyz",
+    "tool": "iodine",
+    "parent_domain": "t1.iodine-exfil.xyz",
+    "is_tunneling": 1
+  },
+  {
+    "query": "v4.w6b5xiz45l1h4lhi9hdvucopqai1e0chlpfgwega8mt74aptheb2skak.t1.iodine-exfil.xyz",
+    "tool": "iodine",
+    "parent_domain": "t1.iodine-exfil.xyz",
+    "is_tunneling": 1
+  },
+  {
+    "query": "v4.prq8ubo24akg9cdfmh2ao3ci9dxbpmhwfkisim7cchxblr77lffgu8zrmbx.t1.iodine-exfil.xyz",
+    "tool": "iodine",
+    "parent_domain": "t1.iodine-exfil.xyz",
+    "is_tunneling": 1
+  },
+  {
+    "query": "v4.anmegojownrrtev294z4fsm925f9y7ashvp59o8xey8780qt5rw.t1.iodine-exfil.xyz",
+    "tool": "iodine",
+    "parent_domain": "t1.iodine-exfil.xyz",
+    "is_tunneling": 1
+  },
+  {
+    "query": "v4.88t3ezcdn8rtqmqiecu6vtch7c7nk40gcx5gok6sy0x7jpmh.t1.iodine-exfil.xyz",
+    "tool": "iodine",
+    "parent_domain": "t1.iodine-exfil.xyz",
+    "is_tunneling": 1
+  },
+  {
+    "query": "v4.t4keukoubdwcirckm7gvs3sgweftc9o6gwp29sojvhn3ey.t1.iodine-exfil.xyz",
+    "tool": "iodine",
+    "parent_domain": "t1.iodine-exfil.xyz",
+    "is_tunneling": 1
+  },
+  {
+    "query": "v4.km4mlnbc65hlz0agiabgx0me5icib20wphuts4xfage9exjns.t1.iodine-exfil.xyz",
+    "tool": "iodine",
+    "parent_domain": "t1.iodine-exfil.xyz",
+    "is_tunneling": 1
+  },
+  {
+    "query": "v4.mgwtd6ba1rpdop8zugleo6txb5nxr7ifkahtpghoc3jwopxgf63zbv.t1.iodine-exfil.xyz",
+    "tool": "iodine",
+    "parent_domain": "t1.iodine-exfil.xyz",
+    "is_tunneling": 1
+  },
+  {
+    "query": "v4.xbghauc7s1sz0q1h47y27zsgz2p8z425f8dnd85e05d4qve2wum52ncq3keo.t1.iodine-exfil.xyz",
+    "tool": "iodine",
+    "parent_domain": "t1.iodine-exfil.xyz",
+    "is_tunneling": 1
+  },
+  {
+    "query": "v4.5aerioxirw1z5pybherkbbgkbzdunc0ihnh3gesfq3n22l.t1.iodine-exfil.xyz",
+    "tool": "iodine",
+    "parent_domain": "t1.iodine-exfil.xyz",
+    "is_tunneling": 1
+  },
+  {
+    "query": "v4.6wzibr70k76ywtvcldc212gpzrl7i6pgwcqc94caf2rij3k.t1.iodine-exfil.xyz",
+    "tool": "iodine",
+    "parent_domain": "t1.iodine-exfil.xyz",
+    "is_tunneling": 1
+  },
+  {
+    "query": "v4.82d2mwggj63ahu8pet3olfeqfh3cvgyygk54jsyhjbbz3o16x8p.t1.iodine-exfil.xyz",
+    "tool": "iodine",
+    "parent_domain": "t1.iodine-exfil.xyz",
+    "is_tunneling": 1
+  },
+  {
+    "query": "v4.4i3y7w57mz73hstzcfd79pkx9p7fg637ue286m7lh6l0x8nywkj8722.t1.iodine-exfil.xyz",
+    "tool": "iodine",
+    "parent_domain": "t1.iodine-exfil.xyz",
+    "is_tunneling": 1
+  },
+  {
+    "query": "v4.e0ujpcplqdifgdvzkc7qksj4sm4gfptvojr6pqtdq0qcnpvcg.t1.iodine-exfil.xyz",
+    "tool": "iodine",
+    "parent_domain": "t1.iodine-exfil.xyz",
+    "is_tunneling": 1
+  },
+  {
+    "query": "v4.afozukr8wnc7rjfzmd8fpgqga088cohgzwz3vt6v2murclnrn7d57upmmyr3.t1.iodine-exfil.xyz",
+    "tool": "iodine",
+    "parent_domain": "t1.iodine-exfil.xyz",
+    "is_tunneling": 1
+  },
+  {
+    "query": "v4.hnyj5rwu6rkyvyoj9104c196a9tniqx4xe7pzgrwj0u6zvms.t1.iodine-exfil.xyz",
+    "tool": "iodine",
+    "parent_domain": "t1.iodine-exfil.xyz",
+    "is_tunneling": 1
+  },
+  {
+    "query": "v4.j04oayzuwitzfk8vie47zx2u0z4k7yvl6g2cgxtnjl92hxxz.t1.iodine-exfil.xyz",
+    "tool": "iodine",
+    "parent_domain": "t1.iodine-exfil.xyz",
+    "is_tunneling": 1
+  },
+  {
+    "query": "v4.oy453b5vwh3tkyg9rh5mnzuwuxb70rpy2tlm71n78cae7xwu.t1.iodine-exfil.xyz",
+    "tool": "iodine",
+    "parent_domain": "t1.iodine-exfil.xyz",
+    "is_tunneling": 1
+  },
+  {
+    "query": "v4.kd9c0gkvjk1llclr226itkts16a18chx3c3pwn42jiy7i4qzwhz2.t1.iodine-exfil.xyz",
+    "tool": "iodine",
+    "parent_domain": "t1.iodine-exfil.xyz",
+    "is_tunneling": 1
+  },
+  {
+    "query": "v4.cwjw3vaed9p6bxd9b9pz2ssdb654u5bjv7wknd23g4f5ebqlh.t1.iodine-exfil.xyz",
+    "tool": "iodine",
+    "parent_domain": "t1.iodine-exfil.xyz",
+    "is_tunneling": 1
+  },
+  {
+    "query": "v4.ncc09wlvdfl1zb0dd68y4qg44q6l2vqgmxwxpqw0llm4jvf1pla2kt7iv4zo.t1.iodine-exfil.xyz",
+    "tool": "iodine",
+    "parent_domain": "t1.iodine-exfil.xyz",
+    "is_tunneling": 1
+  },
+  {
+    "query": "v4.x0gwtit73pz7gaozhq0vpyhg7obwed1wd78w9oy66roara.t1.iodine-exfil.xyz",
+    "tool": "iodine",
+    "parent_domain": "t1.iodine-exfil.xyz",
+    "is_tunneling": 1
+  },
+  {
+    "query": "v4.gs2mmebn82skqd3f56kdyc23e3np2de694s4dzmlxj6goh.t1.iodine-exfil.xyz",
+    "tool": "iodine",
+    "parent_domain": "t1.iodine-exfil.xyz",
+    "is_tunneling": 1
+  },
+  {
+    "query": "v4.065k3c5bydd1ot5jc6jt5i9ps937yxyfcoi3bwupdajltfbcjayv808yr.t1.iodine-exfil.xyz",
+    "tool": "iodine",
+    "parent_domain": "t1.iodine-exfil.xyz",
+    "is_tunneling": 1
+  },
+  {
+    "query": "v4.t4tm9rptb31com2zcubtarrltghmwckefni33yaqobbvcvc2zsr0t7p.t1.iodine-exfil.xyz",
+    "tool": "iodine",
+    "parent_domain": "t1.iodine-exfil.xyz",
+    "is_tunneling": 1
+  },
+  {
+    "query": "v4.b5b5f5qgs6p4lkmyfcozf7khltec1015kxjsm0ht7ogds16uwhygwej.t1.iodine-exfil.xyz",
+    "tool": "iodine",
+    "parent_domain": "t1.iodine-exfil.xyz",
+    "is_tunneling": 1
+  },
+  {
+    "query": "v4.5c4h1vcyfyabjx34yh7nvisbikgluflys0dusulf5tr6p7l533.t1.iodine-exfil.xyz",
+    "tool": "iodine",
+    "parent_domain": "t1.iodine-exfil.xyz",
+    "is_tunneling": 1
+  },
+  {
+    "query": "v4.z4ekxnhn0zd1a13ai3gqgrv494035om95xu8xxih83d0gpa.t1.iodine-exfil.xyz",
+    "tool": "iodine",
+    "parent_domain": "t1.iodine-exfil.xyz",
+    "is_tunneling": 1
+  },
+  {
+    "query": "v4.bmy3wge3opy0unc4qvkhi751f7kevy5x6j6qftoua27tpssr1.t1.iodine-exfil.xyz",
+    "tool": "iodine",
+    "parent_domain": "t1.iodine-exfil.xyz",
+    "is_tunneling": 1
+  },
+  {
+    "query": "v4.gcylap77vldsk605w2w1eebwmp9qqrjbwcv32evk41bk8tgsp36ibg.t1.iodine-exfil.xyz",
+    "tool": "iodine",
+    "parent_domain": "t1.iodine-exfil.xyz",
+    "is_tunneling": 1
+  },
+  {
+    "query": "v4.ctjpnsk678g9m6xqbhpvi457i4omqex2p40cxcxgs1x8vo1e9fshvrce0x0.t1.iodine-exfil.xyz",
+    "tool": "iodine",
+    "parent_domain": "t1.iodine-exfil.xyz",
+    "is_tunneling": 1
+  },
+  {
+    "query": "v4.fx7gcmj8o2zkg1ouyjhz7bms41v50xa2wprrbq9p540n9vdpfd.t1.iodine-exfil.xyz",
+    "tool": "iodine",
+    "parent_domain": "t1.iodine-exfil.xyz",
+    "is_tunneling": 1
+  },
+  {
+    "query": "v4.hu2bahql6af8gqelkzhp0itd6fm1m72z8h6wpcrp4a6erfxuklxwzh0ulx.t1.iodine-exfil.xyz",
+    "tool": "iodine",
+    "parent_domain": "t1.iodine-exfil.xyz",
+    "is_tunneling": 1
+  },
+  {
+    "query": "cdn8afd66d3495e24aec723f696a6592c6d432101bf6806dd8.stage.beacon-c2.org",
+    "tool": "Cobalt Strike DNS Beacon",
+    "parent_domain": "stage.beacon-c2.org",
+    "is_tunneling": 1
+  },
+  {
+    "query": "cdn239727f0c3a7f0fc960034943b0b82a1e21c3e.stage.beacon-c2.org",
+    "tool": "Cobalt Strike DNS Beacon",
+    "parent_domain": "stage.beacon-c2.org",
+    "is_tunneling": 1
+  },
+  {
+    "query": "cdn99693cbd0b285f90a6bcef6cda3287e86f8e91de63c4.stage.beacon-c2.org",
+    "tool": "Cobalt Strike DNS Beacon",
+    "parent_domain": "stage.beacon-c2.org",
+    "is_tunneling": 1
+  },
+  {
+    "query": "cdn891619989e34dd35018a3f2bacf21e734d2f9f.stage.beacon-c2.org",
+    "tool": "Cobalt Strike DNS Beacon",
+    "parent_domain": "stage.beacon-c2.org",
+    "is_tunneling": 1
+  },
+  {
+    "query": "cdn71b522d54853b4a149ad6487a96c2b153d0.stage.beacon-c2.org",
+    "tool": "Cobalt Strike DNS Beacon",
+    "parent_domain": "stage.beacon-c2.org",
+    "is_tunneling": 1
+  },
+  {
+    "query": "cdn2210f2f31963b4e4c50941c884aaa2142771d02110819b50.stage.beacon-c2.org",
+    "tool": "Cobalt Strike DNS Beacon",
+    "parent_domain": "stage.beacon-c2.org",
+    "is_tunneling": 1
+  },
+  {
+    "query": "cdncb5db347fbf1f7762106883636184620a9bf754209a.stage.beacon-c2.org",
+    "tool": "Cobalt Strike DNS Beacon",
+    "parent_domain": "stage.beacon-c2.org",
+    "is_tunneling": 1
+  },
+  {
+    "query": "cdn87476930a240f21edda0b7e3ce8524d9a0707db5d0.stage.beacon-c2.org",
+    "tool": "Cobalt Strike DNS Beacon",
+    "parent_domain": "stage.beacon-c2.org",
+    "is_tunneling": 1
+  },
+  {
+    "query": "cdn6c9467d283dcd4c1ee453348f4371da2124848732c9c2.stage.beacon-c2.org",
+    "tool": "Cobalt Strike DNS Beacon",
+    "parent_domain": "stage.beacon-c2.org",
+    "is_tunneling": 1
+  },
+  {
+    "query": "cdnb8793f133544c596ad64839b316158e6914e7f0.stage.beacon-c2.org",
+    "tool": "Cobalt Strike DNS Beacon",
+    "parent_domain": "stage.beacon-c2.org",
+    "is_tunneling": 1
+  },
+  {
+    "query": "cdnebd73c469896cd41f27627e91da6f1898.stage.beacon-c2.org",
+    "tool": "Cobalt Strike DNS Beacon",
+    "parent_domain": "stage.beacon-c2.org",
+    "is_tunneling": 1
+  },
+  {
+    "query": "cdn1aae39682678791b8f6ac6d024ae850081586a1c.stage.beacon-c2.org",
+    "tool": "Cobalt Strike DNS Beacon",
+    "parent_domain": "stage.beacon-c2.org",
+    "is_tunneling": 1
+  },
+  {
+    "query": "cdn5cf27db7c1cbe82373f05b8ead1a1f9518e90c71ab0.stage.beacon-c2.org",
+    "tool": "Cobalt Strike DNS Beacon",
+    "parent_domain": "stage.beacon-c2.org",
+    "is_tunneling": 1
+  },
+  {
+    "query": "cdnf0c41ebeefb515cf773ea79d45341036d8ef9fbac.stage.beacon-c2.org",
+    "tool": "Cobalt Strike DNS Beacon",
+    "parent_domain": "stage.beacon-c2.org",
+    "is_tunneling": 1
+  },
+  {
+    "query": "cdn5f670705815896f4e41d700ad60f3d201f.stage.beacon-c2.org",
+    "tool": "Cobalt Strike DNS Beacon",
+    "parent_domain": "stage.beacon-c2.org",
+    "is_tunneling": 1
+  },
+  {
+    "query": "cdn80aa711d7452273041f1241469b61d0b661b4.stage.beacon-c2.org",
+    "tool": "Cobalt Strike DNS Beacon",
+    "parent_domain": "stage.beacon-c2.org",
+    "is_tunneling": 1
+  },
+  {
+    "query": "cdn4c1e92c5511dc87913aa686ac2cd93577e1.stage.beacon-c2.org",
+    "tool": "Cobalt Strike DNS Beacon",
+    "parent_domain": "stage.beacon-c2.org",
+    "is_tunneling": 1
+  },
+  {
+    "query": "cdn37546a945a61d5311551d4a5134cccb48261d0574b0f3aa.stage.beacon-c2.org",
+    "tool": "Cobalt Strike DNS Beacon",
+    "parent_domain": "stage.beacon-c2.org",
+    "is_tunneling": 1
+  },
+  {
+    "query": "cdnb2bdbdcbf2a7e13e2e63931f56038470d58ab35650.stage.beacon-c2.org",
+    "tool": "Cobalt Strike DNS Beacon",
+    "parent_domain": "stage.beacon-c2.org",
+    "is_tunneling": 1
+  },
+  {
+    "query": "cdn6e47ab2c9b38da9de0000667a5a7a62071.stage.beacon-c2.org",
+    "tool": "Cobalt Strike DNS Beacon",
+    "parent_domain": "stage.beacon-c2.org",
+    "is_tunneling": 1
+  },
+  {
+    "query": "cdn9e255c8da5f7abbe3246d5d35f84965b1a045a62432c.stage.beacon-c2.org",
+    "tool": "Cobalt Strike DNS Beacon",
+    "parent_domain": "stage.beacon-c2.org",
+    "is_tunneling": 1
+  },
+  {
+    "query": "cdn9edc460eb8a903495b7f65b0368a9a1bd58.stage.beacon-c2.org",
+    "tool": "Cobalt Strike DNS Beacon",
+    "parent_domain": "stage.beacon-c2.org",
+    "is_tunneling": 1
+  },
+  {
+    "query": "cdn177575c899f3d8df244172a81be4e3e727.stage.beacon-c2.org",
+    "tool": "Cobalt Strike DNS Beacon",
+    "parent_domain": "stage.beacon-c2.org",
+    "is_tunneling": 1
+  },
+  {
+    "query": "cdncbbfd052ae4b19797e6ff10e8289c654f21bd43e709.stage.beacon-c2.org",
+    "tool": "Cobalt Strike DNS Beacon",
+    "parent_domain": "stage.beacon-c2.org",
+    "is_tunneling": 1
+  },
+  {
+    "query": "cdn256a716414e178d5f6d490c909d47e59ff47a8eadc9.stage.beacon-c2.org",
+    "tool": "Cobalt Strike DNS Beacon",
+    "parent_domain": "stage.beacon-c2.org",
+    "is_tunneling": 1
+  },
+  {
+    "query": "cdn27c58e20a77482a5bd650a7a68753fa6fd9c489642e.stage.beacon-c2.org",
+    "tool": "Cobalt Strike DNS Beacon",
+    "parent_domain": "stage.beacon-c2.org",
+    "is_tunneling": 1
+  },
+  {
+    "query": "cdnf6d95f970c80613d91f8b3e4a8f268c328aad8.stage.beacon-c2.org",
+    "tool": "Cobalt Strike DNS Beacon",
+    "parent_domain": "stage.beacon-c2.org",
+    "is_tunneling": 1
+  },
+  {
+    "query": "cdn8f34746963d9e92b7bdbd8c4db42c422c.stage.beacon-c2.org",
+    "tool": "Cobalt Strike DNS Beacon",
+    "parent_domain": "stage.beacon-c2.org",
+    "is_tunneling": 1
+  },
+  {
+    "query": "cdn0060f20075c8473f46dec7a66207e5caa149018acc209fb.stage.beacon-c2.org",
+    "tool": "Cobalt Strike DNS Beacon",
+    "parent_domain": "stage.beacon-c2.org",
+    "is_tunneling": 1
+  },
+  {
+    "query": "cdn22b5d97160e3b5d6a28db509dd1b5efacfe8.stage.beacon-c2.org",
+    "tool": "Cobalt Strike DNS Beacon",
+    "parent_domain": "stage.beacon-c2.org",
+    "is_tunneling": 1
+  },
+  {
+    "query": "cdn98b32207c391dba7ff5574ae1a3e37a1b666d.stage.beacon-c2.org",
+    "tool": "Cobalt Strike DNS Beacon",
+    "parent_domain": "stage.beacon-c2.org",
+    "is_tunneling": 1
+  },
+  {
+    "query": "cdnfa8af444cb452acdb7aef63872c6ecf54b4.stage.beacon-c2.org",
+    "tool": "Cobalt Strike DNS Beacon",
+    "parent_domain": "stage.beacon-c2.org",
+    "is_tunneling": 1
+  },
+  {
+    "query": "cdncebbf89a0fdd0124e7677b5f5a2ad069cf0.stage.beacon-c2.org",
+    "tool": "Cobalt Strike DNS Beacon",
+    "parent_domain": "stage.beacon-c2.org",
+    "is_tunneling": 1
+  },
+  {
+    "query": "cdn378e4834187b47d2b1f209bb1f51fc441c58f2.stage.beacon-c2.org",
+    "tool": "Cobalt Strike DNS Beacon",
+    "parent_domain": "stage.beacon-c2.org",
+    "is_tunneling": 1
+  },
+  {
+    "query": "cdn8deeca76fa981b601b3f49d254a000523001b270.stage.beacon-c2.org",
+    "tool": "Cobalt Strike DNS Beacon",
+    "parent_domain": "stage.beacon-c2.org",
+    "is_tunneling": 1
+  },
+  {
+    "query": "mail.google.com",
+    "tool": "BENIGN",
+    "parent_domain": "google.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "raw.githubusercontent.com",
+    "tool": "BENIGN",
+    "parent_domain": "githubusercontent.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "chat.openai.com",
+    "tool": "BENIGN",
+    "parent_domain": "openai.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "teams.microsoft.com",
+    "tool": "BENIGN",
+    "parent_domain": "microsoft.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "node-60.slack.com",
+    "tool": "BENIGN",
+    "parent_domain": "slack.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "edge-chat.facebook.com",
+    "tool": "BENIGN",
+    "parent_domain": "facebook.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "node-37.i.imgur.com",
+    "tool": "BENIGN",
+    "parent_domain": "imgur.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "node-6.mail.google.com",
+    "tool": "BENIGN",
+    "parent_domain": "google.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "edge-chat.facebook.com",
+    "tool": "BENIGN",
+    "parent_domain": "facebook.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "node-28.cdn.discordapp.com",
+    "tool": "BENIGN",
+    "parent_domain": "discordapp.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "chat.openai.com",
+    "tool": "BENIGN",
+    "parent_domain": "openai.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "i.imgur.com",
+    "tool": "BENIGN",
+    "parent_domain": "imgur.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "s3.dualstack.us-east-1.amazonaws.com",
+    "tool": "BENIGN",
+    "parent_domain": "amazonaws.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "node-38.s3.dualstack.us-east-1.amazonaws.com",
+    "tool": "BENIGN",
+    "parent_domain": "amazonaws.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "en.wikipedia.org",
+    "tool": "BENIGN",
+    "parent_domain": "wikipedia.org",
+    "is_tunneling": 0
+  },
+  {
+    "query": "node-88.www.google.com",
+    "tool": "BENIGN",
+    "parent_domain": "google.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "e1051.g.akamaiedge.net",
+    "tool": "BENIGN",
+    "parent_domain": "akamaiedge.net",
+    "is_tunneling": 0
+  },
+  {
+    "query": "outlook.office365.com",
+    "tool": "BENIGN",
+    "parent_domain": "office365.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "api.spotify.com",
+    "tool": "BENIGN",
+    "parent_domain": "spotify.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "drive.google.com",
+    "tool": "BENIGN",
+    "parent_domain": "google.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "e1051.g.akamaiedge.net",
+    "tool": "BENIGN",
+    "parent_domain": "akamaiedge.net",
+    "is_tunneling": 0
+  },
+  {
+    "query": "node-47.chat.openai.com",
+    "tool": "BENIGN",
+    "parent_domain": "openai.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "node-37.e1051.g.akamaiedge.net",
+    "tool": "BENIGN",
+    "parent_domain": "akamaiedge.net",
+    "is_tunneling": 0
+  },
+  {
+    "query": "www.google.com",
+    "tool": "BENIGN",
+    "parent_domain": "google.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "edge-chat.facebook.com",
+    "tool": "BENIGN",
+    "parent_domain": "facebook.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "node-55.s3.dualstack.us-east-1.amazonaws.com",
+    "tool": "BENIGN",
+    "parent_domain": "amazonaws.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "node-30.d3m7h8e2.cloudfront.net",
+    "tool": "BENIGN",
+    "parent_domain": "cloudfront.net",
+    "is_tunneling": 0
+  },
+  {
+    "query": "stackoverflow.com",
+    "tool": "BENIGN",
+    "parent_domain": "stackoverflow.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "node-36.slack.com",
+    "tool": "BENIGN",
+    "parent_domain": "slack.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "api.spotify.com",
+    "tool": "BENIGN",
+    "parent_domain": "spotify.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "node-17.en.wikipedia.org",
+    "tool": "BENIGN",
+    "parent_domain": "wikipedia.org",
+    "is_tunneling": 0
+  },
+  {
+    "query": "node-64.api.spotify.com",
+    "tool": "BENIGN",
+    "parent_domain": "spotify.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "api.github.com",
+    "tool": "BENIGN",
+    "parent_domain": "github.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "api.github.com",
+    "tool": "BENIGN",
+    "parent_domain": "github.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "edge-chat.facebook.com",
+    "tool": "BENIGN",
+    "parent_domain": "facebook.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "node-13.en.wikipedia.org",
+    "tool": "BENIGN",
+    "parent_domain": "wikipedia.org",
+    "is_tunneling": 0
+  },
+  {
+    "query": "node-51.s3.dualstack.us-east-1.amazonaws.com",
+    "tool": "BENIGN",
+    "parent_domain": "amazonaws.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "s3.dualstack.us-east-1.amazonaws.com",
+    "tool": "BENIGN",
+    "parent_domain": "amazonaws.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "node-82.stackoverflow.com",
+    "tool": "BENIGN",
+    "parent_domain": "stackoverflow.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "stackoverflow.com",
+    "tool": "BENIGN",
+    "parent_domain": "stackoverflow.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "node-37.drive.google.com",
+    "tool": "BENIGN",
+    "parent_domain": "google.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "cdn.discordapp.com",
+    "tool": "BENIGN",
+    "parent_domain": "discordapp.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "d3m7h8e2.cloudfront.net",
+    "tool": "BENIGN",
+    "parent_domain": "cloudfront.net",
+    "is_tunneling": 0
+  },
+  {
+    "query": "node-4.d3m7h8e2.cloudfront.net",
+    "tool": "BENIGN",
+    "parent_domain": "cloudfront.net",
+    "is_tunneling": 0
+  },
+  {
+    "query": "node-42.raw.githubusercontent.com",
+    "tool": "BENIGN",
+    "parent_domain": "githubusercontent.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "prod.cloud.netflix.com",
+    "tool": "BENIGN",
+    "parent_domain": "netflix.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "i.imgur.com",
+    "tool": "BENIGN",
+    "parent_domain": "imgur.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "en.wikipedia.org",
+    "tool": "BENIGN",
+    "parent_domain": "wikipedia.org",
+    "is_tunneling": 0
+  },
+  {
+    "query": "github.com",
+    "tool": "BENIGN",
+    "parent_domain": "github.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "api.github.com",
+    "tool": "BENIGN",
+    "parent_domain": "github.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "chat.openai.com",
+    "tool": "BENIGN",
+    "parent_domain": "openai.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "node-83.chat.openai.com",
+    "tool": "BENIGN",
+    "parent_domain": "openai.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "drive.google.com",
+    "tool": "BENIGN",
+    "parent_domain": "google.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "teams.microsoft.com",
+    "tool": "BENIGN",
+    "parent_domain": "microsoft.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "node-9.slack.com",
+    "tool": "BENIGN",
+    "parent_domain": "slack.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "node-88.edge-chat.facebook.com",
+    "tool": "BENIGN",
+    "parent_domain": "facebook.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "www.google.com",
+    "tool": "BENIGN",
+    "parent_domain": "google.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "mail.google.com",
+    "tool": "BENIGN",
+    "parent_domain": "google.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "i.imgur.com",
+    "tool": "BENIGN",
+    "parent_domain": "imgur.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "mail.google.com",
+    "tool": "BENIGN",
+    "parent_domain": "google.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "edge-chat.facebook.com",
+    "tool": "BENIGN",
+    "parent_domain": "facebook.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "prod.cloud.netflix.com",
+    "tool": "BENIGN",
+    "parent_domain": "netflix.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "node-3.edge-chat.facebook.com",
+    "tool": "BENIGN",
+    "parent_domain": "facebook.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "node-87.i.imgur.com",
+    "tool": "BENIGN",
+    "parent_domain": "imgur.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "node-15.stackoverflow.com",
+    "tool": "BENIGN",
+    "parent_domain": "stackoverflow.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "node-79.api.spotify.com",
+    "tool": "BENIGN",
+    "parent_domain": "spotify.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "drive.google.com",
+    "tool": "BENIGN",
+    "parent_domain": "google.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "node-36.github.com",
+    "tool": "BENIGN",
+    "parent_domain": "github.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "slack.com",
+    "tool": "BENIGN",
+    "parent_domain": "slack.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "raw.githubusercontent.com",
+    "tool": "BENIGN",
+    "parent_domain": "githubusercontent.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "node-70.github.com",
+    "tool": "BENIGN",
+    "parent_domain": "github.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "node-29.s3.dualstack.us-east-1.amazonaws.com",
+    "tool": "BENIGN",
+    "parent_domain": "amazonaws.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "node-99.i.imgur.com",
+    "tool": "BENIGN",
+    "parent_domain": "imgur.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "slack.com",
+    "tool": "BENIGN",
+    "parent_domain": "slack.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "mail.google.com",
+    "tool": "BENIGN",
+    "parent_domain": "google.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "github.com",
+    "tool": "BENIGN",
+    "parent_domain": "github.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "chat.openai.com",
+    "tool": "BENIGN",
+    "parent_domain": "openai.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "node-2.e1051.g.akamaiedge.net",
+    "tool": "BENIGN",
+    "parent_domain": "akamaiedge.net",
+    "is_tunneling": 0
+  },
+  {
+    "query": "i.imgur.com",
+    "tool": "BENIGN",
+    "parent_domain": "imgur.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "edge-chat.facebook.com",
+    "tool": "BENIGN",
+    "parent_domain": "facebook.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "en.wikipedia.org",
+    "tool": "BENIGN",
+    "parent_domain": "wikipedia.org",
+    "is_tunneling": 0
+  },
+  {
+    "query": "login.microsoftonline.com",
+    "tool": "BENIGN",
+    "parent_domain": "microsoftonline.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "d3m7h8e2.cloudfront.net",
+    "tool": "BENIGN",
+    "parent_domain": "cloudfront.net",
+    "is_tunneling": 0
+  },
+  {
+    "query": "node-37.i.imgur.com",
+    "tool": "BENIGN",
+    "parent_domain": "imgur.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "edge-chat.facebook.com",
+    "tool": "BENIGN",
+    "parent_domain": "facebook.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "api.github.com",
+    "tool": "BENIGN",
+    "parent_domain": "github.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "cdn.discordapp.com",
+    "tool": "BENIGN",
+    "parent_domain": "discordapp.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "raw.githubusercontent.com",
+    "tool": "BENIGN",
+    "parent_domain": "githubusercontent.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "raw.githubusercontent.com",
+    "tool": "BENIGN",
+    "parent_domain": "githubusercontent.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "i.imgur.com",
+    "tool": "BENIGN",
+    "parent_domain": "imgur.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "i.imgur.com",
+    "tool": "BENIGN",
+    "parent_domain": "imgur.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "s3.dualstack.us-east-1.amazonaws.com",
+    "tool": "BENIGN",
+    "parent_domain": "amazonaws.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "login.microsoftonline.com",
+    "tool": "BENIGN",
+    "parent_domain": "microsoftonline.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "prod.cloud.netflix.com",
+    "tool": "BENIGN",
+    "parent_domain": "netflix.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "node-94.e1051.g.akamaiedge.net",
+    "tool": "BENIGN",
+    "parent_domain": "akamaiedge.net",
+    "is_tunneling": 0
+  },
+  {
+    "query": "node-44.www.google.com",
+    "tool": "BENIGN",
+    "parent_domain": "google.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "node-40.chat.openai.com",
+    "tool": "BENIGN",
+    "parent_domain": "openai.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "mail.google.com",
+    "tool": "BENIGN",
+    "parent_domain": "google.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "cdn.discordapp.com",
+    "tool": "BENIGN",
+    "parent_domain": "discordapp.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "node-51.s3.dualstack.us-east-1.amazonaws.com",
+    "tool": "BENIGN",
+    "parent_domain": "amazonaws.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "slack.com",
+    "tool": "BENIGN",
+    "parent_domain": "slack.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "github.com",
+    "tool": "BENIGN",
+    "parent_domain": "github.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "mail.google.com",
+    "tool": "BENIGN",
+    "parent_domain": "google.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "node-87.mail.google.com",
+    "tool": "BENIGN",
+    "parent_domain": "google.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "node-99.edge-chat.facebook.com",
+    "tool": "BENIGN",
+    "parent_domain": "facebook.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "node-12.drive.google.com",
+    "tool": "BENIGN",
+    "parent_domain": "google.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "chat.openai.com",
+    "tool": "BENIGN",
+    "parent_domain": "openai.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "api.github.com",
+    "tool": "BENIGN",
+    "parent_domain": "github.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "teams.microsoft.com",
+    "tool": "BENIGN",
+    "parent_domain": "microsoft.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "en.wikipedia.org",
+    "tool": "BENIGN",
+    "parent_domain": "wikipedia.org",
+    "is_tunneling": 0
+  },
+  {
+    "query": "chat.openai.com",
+    "tool": "BENIGN",
+    "parent_domain": "openai.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "outlook.office365.com",
+    "tool": "BENIGN",
+    "parent_domain": "office365.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "node-35.github.com",
+    "tool": "BENIGN",
+    "parent_domain": "github.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "teams.microsoft.com",
+    "tool": "BENIGN",
+    "parent_domain": "microsoft.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "node-48.slack.com",
+    "tool": "BENIGN",
+    "parent_domain": "slack.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "node-95.chat.openai.com",
+    "tool": "BENIGN",
+    "parent_domain": "openai.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "github.com",
+    "tool": "BENIGN",
+    "parent_domain": "github.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "node-2.slack.com",
+    "tool": "BENIGN",
+    "parent_domain": "slack.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "e1051.g.akamaiedge.net",
+    "tool": "BENIGN",
+    "parent_domain": "akamaiedge.net",
+    "is_tunneling": 0
+  },
+  {
+    "query": "drive.google.com",
+    "tool": "BENIGN",
+    "parent_domain": "google.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "cdn.discordapp.com",
+    "tool": "BENIGN",
+    "parent_domain": "discordapp.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "login.microsoftonline.com",
+    "tool": "BENIGN",
+    "parent_domain": "microsoftonline.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "outlook.office365.com",
+    "tool": "BENIGN",
+    "parent_domain": "office365.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "e1051.g.akamaiedge.net",
+    "tool": "BENIGN",
+    "parent_domain": "akamaiedge.net",
+    "is_tunneling": 0
+  },
+  {
+    "query": "node-47.api.github.com",
+    "tool": "BENIGN",
+    "parent_domain": "github.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "chat.openai.com",
+    "tool": "BENIGN",
+    "parent_domain": "openai.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "node-82.chat.openai.com",
+    "tool": "BENIGN",
+    "parent_domain": "openai.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "teams.microsoft.com",
+    "tool": "BENIGN",
+    "parent_domain": "microsoft.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "teams.microsoft.com",
+    "tool": "BENIGN",
+    "parent_domain": "microsoft.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "raw.githubusercontent.com",
+    "tool": "BENIGN",
+    "parent_domain": "githubusercontent.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "i.imgur.com",
+    "tool": "BENIGN",
+    "parent_domain": "imgur.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "cdn.discordapp.com",
+    "tool": "BENIGN",
+    "parent_domain": "discordapp.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "node-8.github.com",
+    "tool": "BENIGN",
+    "parent_domain": "github.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "github.com",
+    "tool": "BENIGN",
+    "parent_domain": "github.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "api.github.com",
+    "tool": "BENIGN",
+    "parent_domain": "github.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "e1051.g.akamaiedge.net",
+    "tool": "BENIGN",
+    "parent_domain": "akamaiedge.net",
+    "is_tunneling": 0
+  },
+  {
+    "query": "mail.google.com",
+    "tool": "BENIGN",
+    "parent_domain": "google.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "mail.google.com",
+    "tool": "BENIGN",
+    "parent_domain": "google.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "node-68.github.com",
+    "tool": "BENIGN",
+    "parent_domain": "github.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "raw.githubusercontent.com",
+    "tool": "BENIGN",
+    "parent_domain": "githubusercontent.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "cdn.discordapp.com",
+    "tool": "BENIGN",
+    "parent_domain": "discordapp.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "edge-chat.facebook.com",
+    "tool": "BENIGN",
+    "parent_domain": "facebook.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "prod.cloud.netflix.com",
+    "tool": "BENIGN",
+    "parent_domain": "netflix.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "node-78.e1051.g.akamaiedge.net",
+    "tool": "BENIGN",
+    "parent_domain": "akamaiedge.net",
+    "is_tunneling": 0
+  },
+  {
+    "query": "mail.google.com",
+    "tool": "BENIGN",
+    "parent_domain": "google.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "i.imgur.com",
+    "tool": "BENIGN",
+    "parent_domain": "imgur.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "edge-chat.facebook.com",
+    "tool": "BENIGN",
+    "parent_domain": "facebook.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "raw.githubusercontent.com",
+    "tool": "BENIGN",
+    "parent_domain": "githubusercontent.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "api.spotify.com",
+    "tool": "BENIGN",
+    "parent_domain": "spotify.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "chat.openai.com",
+    "tool": "BENIGN",
+    "parent_domain": "openai.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "en.wikipedia.org",
+    "tool": "BENIGN",
+    "parent_domain": "wikipedia.org",
+    "is_tunneling": 0
+  },
+  {
+    "query": "api.spotify.com",
+    "tool": "BENIGN",
+    "parent_domain": "spotify.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "mail.google.com",
+    "tool": "BENIGN",
+    "parent_domain": "google.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "d3m7h8e2.cloudfront.net",
+    "tool": "BENIGN",
+    "parent_domain": "cloudfront.net",
+    "is_tunneling": 0
+  },
+  {
+    "query": "teams.microsoft.com",
+    "tool": "BENIGN",
+    "parent_domain": "microsoft.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "e1051.g.akamaiedge.net",
+    "tool": "BENIGN",
+    "parent_domain": "akamaiedge.net",
+    "is_tunneling": 0
+  },
+  {
+    "query": "api.spotify.com",
+    "tool": "BENIGN",
+    "parent_domain": "spotify.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "github.com",
+    "tool": "BENIGN",
+    "parent_domain": "github.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "api.github.com",
+    "tool": "BENIGN",
+    "parent_domain": "github.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "cdn.discordapp.com",
+    "tool": "BENIGN",
+    "parent_domain": "discordapp.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "node-67.slack.com",
+    "tool": "BENIGN",
+    "parent_domain": "slack.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "node-70.cdn.discordapp.com",
+    "tool": "BENIGN",
+    "parent_domain": "discordapp.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "stackoverflow.com",
+    "tool": "BENIGN",
+    "parent_domain": "stackoverflow.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "cdn.discordapp.com",
+    "tool": "BENIGN",
+    "parent_domain": "discordapp.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "node-77.edge-chat.facebook.com",
+    "tool": "BENIGN",
+    "parent_domain": "facebook.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "drive.google.com",
+    "tool": "BENIGN",
+    "parent_domain": "google.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "slack.com",
+    "tool": "BENIGN",
+    "parent_domain": "slack.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "node-50.i.imgur.com",
+    "tool": "BENIGN",
+    "parent_domain": "imgur.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "d3m7h8e2.cloudfront.net",
+    "tool": "BENIGN",
+    "parent_domain": "cloudfront.net",
+    "is_tunneling": 0
+  },
+  {
+    "query": "s3.dualstack.us-east-1.amazonaws.com",
+    "tool": "BENIGN",
+    "parent_domain": "amazonaws.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "cdn.discordapp.com",
+    "tool": "BENIGN",
+    "parent_domain": "discordapp.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "node-78.e1051.g.akamaiedge.net",
+    "tool": "BENIGN",
+    "parent_domain": "akamaiedge.net",
+    "is_tunneling": 0
+  },
+  {
+    "query": "api.github.com",
+    "tool": "BENIGN",
+    "parent_domain": "github.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "node-23.github.com",
+    "tool": "BENIGN",
+    "parent_domain": "github.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "node-84.i.imgur.com",
+    "tool": "BENIGN",
+    "parent_domain": "imgur.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "api.spotify.com",
+    "tool": "BENIGN",
+    "parent_domain": "spotify.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "prod.cloud.netflix.com",
+    "tool": "BENIGN",
+    "parent_domain": "netflix.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "edge-chat.facebook.com",
+    "tool": "BENIGN",
+    "parent_domain": "facebook.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "www.google.com",
+    "tool": "BENIGN",
+    "parent_domain": "google.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "teams.microsoft.com",
+    "tool": "BENIGN",
+    "parent_domain": "microsoft.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "node-78.raw.githubusercontent.com",
+    "tool": "BENIGN",
+    "parent_domain": "githubusercontent.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "node-83.slack.com",
+    "tool": "BENIGN",
+    "parent_domain": "slack.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "node-91.outlook.office365.com",
+    "tool": "BENIGN",
+    "parent_domain": "office365.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "node-42.raw.githubusercontent.com",
+    "tool": "BENIGN",
+    "parent_domain": "githubusercontent.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "api.spotify.com",
+    "tool": "BENIGN",
+    "parent_domain": "spotify.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "raw.githubusercontent.com",
+    "tool": "BENIGN",
+    "parent_domain": "githubusercontent.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "edge-chat.facebook.com",
+    "tool": "BENIGN",
+    "parent_domain": "facebook.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "github.com",
+    "tool": "BENIGN",
+    "parent_domain": "github.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "node-92.prod.cloud.netflix.com",
+    "tool": "BENIGN",
+    "parent_domain": "netflix.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "node-31.login.microsoftonline.com",
+    "tool": "BENIGN",
+    "parent_domain": "microsoftonline.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "outlook.office365.com",
+    "tool": "BENIGN",
+    "parent_domain": "office365.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "chat.openai.com",
+    "tool": "BENIGN",
+    "parent_domain": "openai.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "edge-chat.facebook.com",
+    "tool": "BENIGN",
+    "parent_domain": "facebook.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "api.spotify.com",
+    "tool": "BENIGN",
+    "parent_domain": "spotify.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "node-14.raw.githubusercontent.com",
+    "tool": "BENIGN",
+    "parent_domain": "githubusercontent.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "node-10.prod.cloud.netflix.com",
+    "tool": "BENIGN",
+    "parent_domain": "netflix.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "edge-chat.facebook.com",
+    "tool": "BENIGN",
+    "parent_domain": "facebook.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "edge-chat.facebook.com",
+    "tool": "BENIGN",
+    "parent_domain": "facebook.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "node-16.cdn.discordapp.com",
+    "tool": "BENIGN",
+    "parent_domain": "discordapp.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "node-20.outlook.office365.com",
+    "tool": "BENIGN",
+    "parent_domain": "office365.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "raw.githubusercontent.com",
+    "tool": "BENIGN",
+    "parent_domain": "githubusercontent.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "mail.google.com",
+    "tool": "BENIGN",
+    "parent_domain": "google.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "node-16.chat.openai.com",
+    "tool": "BENIGN",
+    "parent_domain": "openai.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "github.com",
+    "tool": "BENIGN",
+    "parent_domain": "github.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "node-37.slack.com",
+    "tool": "BENIGN",
+    "parent_domain": "slack.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "node-13.stackoverflow.com",
+    "tool": "BENIGN",
+    "parent_domain": "stackoverflow.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "prod.cloud.netflix.com",
+    "tool": "BENIGN",
+    "parent_domain": "netflix.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "s3.dualstack.us-east-1.amazonaws.com",
+    "tool": "BENIGN",
+    "parent_domain": "amazonaws.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "node-4.api.spotify.com",
+    "tool": "BENIGN",
+    "parent_domain": "spotify.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "en.wikipedia.org",
+    "tool": "BENIGN",
+    "parent_domain": "wikipedia.org",
+    "is_tunneling": 0
+  },
+  {
+    "query": "edge-chat.facebook.com",
+    "tool": "BENIGN",
+    "parent_domain": "facebook.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "node-35.api.spotify.com",
+    "tool": "BENIGN",
+    "parent_domain": "spotify.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "node-95.login.microsoftonline.com",
+    "tool": "BENIGN",
+    "parent_domain": "microsoftonline.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "e1051.g.akamaiedge.net",
+    "tool": "BENIGN",
+    "parent_domain": "akamaiedge.net",
+    "is_tunneling": 0
+  },
+  {
+    "query": "raw.githubusercontent.com",
+    "tool": "BENIGN",
+    "parent_domain": "githubusercontent.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "slack.com",
+    "tool": "BENIGN",
+    "parent_domain": "slack.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "d3m7h8e2.cloudfront.net",
+    "tool": "BENIGN",
+    "parent_domain": "cloudfront.net",
+    "is_tunneling": 0
+  },
+  {
+    "query": "node-7.teams.microsoft.com",
+    "tool": "BENIGN",
+    "parent_domain": "microsoft.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "teams.microsoft.com",
+    "tool": "BENIGN",
+    "parent_domain": "microsoft.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "node-29.i.imgur.com",
+    "tool": "BENIGN",
+    "parent_domain": "imgur.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "www.google.com",
+    "tool": "BENIGN",
+    "parent_domain": "google.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "node-21.drive.google.com",
+    "tool": "BENIGN",
+    "parent_domain": "google.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "teams.microsoft.com",
+    "tool": "BENIGN",
+    "parent_domain": "microsoft.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "node-26.i.imgur.com",
+    "tool": "BENIGN",
+    "parent_domain": "imgur.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "node-97.prod.cloud.netflix.com",
+    "tool": "BENIGN",
+    "parent_domain": "netflix.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "raw.githubusercontent.com",
+    "tool": "BENIGN",
+    "parent_domain": "githubusercontent.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "api.github.com",
+    "tool": "BENIGN",
+    "parent_domain": "github.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "drive.google.com",
+    "tool": "BENIGN",
+    "parent_domain": "google.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "api.github.com",
+    "tool": "BENIGN",
+    "parent_domain": "github.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "drive.google.com",
+    "tool": "BENIGN",
+    "parent_domain": "google.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "node-13.stackoverflow.com",
+    "tool": "BENIGN",
+    "parent_domain": "stackoverflow.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "s3.dualstack.us-east-1.amazonaws.com",
+    "tool": "BENIGN",
+    "parent_domain": "amazonaws.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "e1051.g.akamaiedge.net",
+    "tool": "BENIGN",
+    "parent_domain": "akamaiedge.net",
+    "is_tunneling": 0
+  },
+  {
+    "query": "node-56.slack.com",
+    "tool": "BENIGN",
+    "parent_domain": "slack.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "stackoverflow.com",
+    "tool": "BENIGN",
+    "parent_domain": "stackoverflow.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "node-12.chat.openai.com",
+    "tool": "BENIGN",
+    "parent_domain": "openai.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "node-63.www.google.com",
+    "tool": "BENIGN",
+    "parent_domain": "google.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "node-80.cdn.discordapp.com",
+    "tool": "BENIGN",
+    "parent_domain": "discordapp.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "edge-chat.facebook.com",
+    "tool": "BENIGN",
+    "parent_domain": "facebook.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "drive.google.com",
+    "tool": "BENIGN",
+    "parent_domain": "google.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "en.wikipedia.org",
+    "tool": "BENIGN",
+    "parent_domain": "wikipedia.org",
+    "is_tunneling": 0
+  },
+  {
+    "query": "mail.google.com",
+    "tool": "BENIGN",
+    "parent_domain": "google.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "i.imgur.com",
+    "tool": "BENIGN",
+    "parent_domain": "imgur.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "node-71.s3.dualstack.us-east-1.amazonaws.com",
+    "tool": "BENIGN",
+    "parent_domain": "amazonaws.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "node-52.drive.google.com",
+    "tool": "BENIGN",
+    "parent_domain": "google.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "outlook.office365.com",
+    "tool": "BENIGN",
+    "parent_domain": "office365.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "node-47.cdn.discordapp.com",
+    "tool": "BENIGN",
+    "parent_domain": "discordapp.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "www.google.com",
+    "tool": "BENIGN",
+    "parent_domain": "google.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "d3m7h8e2.cloudfront.net",
+    "tool": "BENIGN",
+    "parent_domain": "cloudfront.net",
+    "is_tunneling": 0
+  },
+  {
+    "query": "teams.microsoft.com",
+    "tool": "BENIGN",
+    "parent_domain": "microsoft.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "api.spotify.com",
+    "tool": "BENIGN",
+    "parent_domain": "spotify.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "prod.cloud.netflix.com",
+    "tool": "BENIGN",
+    "parent_domain": "netflix.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "outlook.office365.com",
+    "tool": "BENIGN",
+    "parent_domain": "office365.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "s3.dualstack.us-east-1.amazonaws.com",
+    "tool": "BENIGN",
+    "parent_domain": "amazonaws.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "api.spotify.com",
+    "tool": "BENIGN",
+    "parent_domain": "spotify.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "node-10.raw.githubusercontent.com",
+    "tool": "BENIGN",
+    "parent_domain": "githubusercontent.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "node-71.www.google.com",
+    "tool": "BENIGN",
+    "parent_domain": "google.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "api.github.com",
+    "tool": "BENIGN",
+    "parent_domain": "github.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "slack.com",
+    "tool": "BENIGN",
+    "parent_domain": "slack.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "node-48.d3m7h8e2.cloudfront.net",
+    "tool": "BENIGN",
+    "parent_domain": "cloudfront.net",
+    "is_tunneling": 0
+  },
+  {
+    "query": "i.imgur.com",
+    "tool": "BENIGN",
+    "parent_domain": "imgur.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "s3.dualstack.us-east-1.amazonaws.com",
+    "tool": "BENIGN",
+    "parent_domain": "amazonaws.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "i.imgur.com",
+    "tool": "BENIGN",
+    "parent_domain": "imgur.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "drive.google.com",
+    "tool": "BENIGN",
+    "parent_domain": "google.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "login.microsoftonline.com",
+    "tool": "BENIGN",
+    "parent_domain": "microsoftonline.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "node-7.teams.microsoft.com",
+    "tool": "BENIGN",
+    "parent_domain": "microsoft.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "cdn.discordapp.com",
+    "tool": "BENIGN",
+    "parent_domain": "discordapp.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "api.github.com",
+    "tool": "BENIGN",
+    "parent_domain": "github.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "raw.githubusercontent.com",
+    "tool": "BENIGN",
+    "parent_domain": "githubusercontent.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "node-9.www.google.com",
+    "tool": "BENIGN",
+    "parent_domain": "google.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "slack.com",
+    "tool": "BENIGN",
+    "parent_domain": "slack.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "node-84.i.imgur.com",
+    "tool": "BENIGN",
+    "parent_domain": "imgur.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "prod.cloud.netflix.com",
+    "tool": "BENIGN",
+    "parent_domain": "netflix.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "en.wikipedia.org",
+    "tool": "BENIGN",
+    "parent_domain": "wikipedia.org",
+    "is_tunneling": 0
+  },
+  {
+    "query": "outlook.office365.com",
+    "tool": "BENIGN",
+    "parent_domain": "office365.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "api.github.com",
+    "tool": "BENIGN",
+    "parent_domain": "github.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "node-82.prod.cloud.netflix.com",
+    "tool": "BENIGN",
+    "parent_domain": "netflix.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "node-24.s3.dualstack.us-east-1.amazonaws.com",
+    "tool": "BENIGN",
+    "parent_domain": "amazonaws.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "node-82.edge-chat.facebook.com",
+    "tool": "BENIGN",
+    "parent_domain": "facebook.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "en.wikipedia.org",
+    "tool": "BENIGN",
+    "parent_domain": "wikipedia.org",
+    "is_tunneling": 0
+  },
+  {
+    "query": "s3.dualstack.us-east-1.amazonaws.com",
+    "tool": "BENIGN",
+    "parent_domain": "amazonaws.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "node-58.api.github.com",
+    "tool": "BENIGN",
+    "parent_domain": "github.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "node-93.e1051.g.akamaiedge.net",
+    "tool": "BENIGN",
+    "parent_domain": "akamaiedge.net",
+    "is_tunneling": 0
+  },
+  {
+    "query": "stackoverflow.com",
+    "tool": "BENIGN",
+    "parent_domain": "stackoverflow.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "node-18.e1051.g.akamaiedge.net",
+    "tool": "BENIGN",
+    "parent_domain": "akamaiedge.net",
+    "is_tunneling": 0
+  },
+  {
+    "query": "outlook.office365.com",
+    "tool": "BENIGN",
+    "parent_domain": "office365.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "en.wikipedia.org",
+    "tool": "BENIGN",
+    "parent_domain": "wikipedia.org",
+    "is_tunneling": 0
+  },
+  {
+    "query": "slack.com",
+    "tool": "BENIGN",
+    "parent_domain": "slack.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "raw.githubusercontent.com",
+    "tool": "BENIGN",
+    "parent_domain": "githubusercontent.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "api.spotify.com",
+    "tool": "BENIGN",
+    "parent_domain": "spotify.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "outlook.office365.com",
+    "tool": "BENIGN",
+    "parent_domain": "office365.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "node-10.github.com",
+    "tool": "BENIGN",
+    "parent_domain": "github.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "login.microsoftonline.com",
+    "tool": "BENIGN",
+    "parent_domain": "microsoftonline.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "outlook.office365.com",
+    "tool": "BENIGN",
+    "parent_domain": "office365.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "mail.google.com",
+    "tool": "BENIGN",
+    "parent_domain": "google.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "e1051.g.akamaiedge.net",
+    "tool": "BENIGN",
+    "parent_domain": "akamaiedge.net",
+    "is_tunneling": 0
+  },
+  {
+    "query": "e1051.g.akamaiedge.net",
+    "tool": "BENIGN",
+    "parent_domain": "akamaiedge.net",
+    "is_tunneling": 0
+  },
+  {
+    "query": "d3m7h8e2.cloudfront.net",
+    "tool": "BENIGN",
+    "parent_domain": "cloudfront.net",
+    "is_tunneling": 0
+  },
+  {
+    "query": "e1051.g.akamaiedge.net",
+    "tool": "BENIGN",
+    "parent_domain": "akamaiedge.net",
+    "is_tunneling": 0
+  },
+  {
+    "query": "en.wikipedia.org",
+    "tool": "BENIGN",
+    "parent_domain": "wikipedia.org",
+    "is_tunneling": 0
+  },
+  {
+    "query": "node-55.raw.githubusercontent.com",
+    "tool": "BENIGN",
+    "parent_domain": "githubusercontent.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "s3.dualstack.us-east-1.amazonaws.com",
+    "tool": "BENIGN",
+    "parent_domain": "amazonaws.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "node-87.login.microsoftonline.com",
+    "tool": "BENIGN",
+    "parent_domain": "microsoftonline.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "drive.google.com",
+    "tool": "BENIGN",
+    "parent_domain": "google.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "node-21.api.spotify.com",
+    "tool": "BENIGN",
+    "parent_domain": "spotify.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "node-87.en.wikipedia.org",
+    "tool": "BENIGN",
+    "parent_domain": "wikipedia.org",
+    "is_tunneling": 0
+  },
+  {
+    "query": "teams.microsoft.com",
+    "tool": "BENIGN",
+    "parent_domain": "microsoft.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "node-80.chat.openai.com",
+    "tool": "BENIGN",
+    "parent_domain": "openai.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "login.microsoftonline.com",
+    "tool": "BENIGN",
+    "parent_domain": "microsoftonline.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "api.spotify.com",
+    "tool": "BENIGN",
+    "parent_domain": "spotify.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "node-35.api.github.com",
+    "tool": "BENIGN",
+    "parent_domain": "github.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "outlook.office365.com",
+    "tool": "BENIGN",
+    "parent_domain": "office365.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "raw.githubusercontent.com",
+    "tool": "BENIGN",
+    "parent_domain": "githubusercontent.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "drive.google.com",
+    "tool": "BENIGN",
+    "parent_domain": "google.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "e1051.g.akamaiedge.net",
+    "tool": "BENIGN",
+    "parent_domain": "akamaiedge.net",
+    "is_tunneling": 0
+  },
+  {
+    "query": "stackoverflow.com",
+    "tool": "BENIGN",
+    "parent_domain": "stackoverflow.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "en.wikipedia.org",
+    "tool": "BENIGN",
+    "parent_domain": "wikipedia.org",
+    "is_tunneling": 0
+  },
+  {
+    "query": "raw.githubusercontent.com",
+    "tool": "BENIGN",
+    "parent_domain": "githubusercontent.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "node-74.mail.google.com",
+    "tool": "BENIGN",
+    "parent_domain": "google.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "prod.cloud.netflix.com",
+    "tool": "BENIGN",
+    "parent_domain": "netflix.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "cdn.discordapp.com",
+    "tool": "BENIGN",
+    "parent_domain": "discordapp.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "e1051.g.akamaiedge.net",
+    "tool": "BENIGN",
+    "parent_domain": "akamaiedge.net",
+    "is_tunneling": 0
+  },
+  {
+    "query": "login.microsoftonline.com",
+    "tool": "BENIGN",
+    "parent_domain": "microsoftonline.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "www.google.com",
+    "tool": "BENIGN",
+    "parent_domain": "google.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "d3m7h8e2.cloudfront.net",
+    "tool": "BENIGN",
+    "parent_domain": "cloudfront.net",
+    "is_tunneling": 0
+  },
+  {
+    "query": "mail.google.com",
+    "tool": "BENIGN",
+    "parent_domain": "google.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "stackoverflow.com",
+    "tool": "BENIGN",
+    "parent_domain": "stackoverflow.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "mail.google.com",
+    "tool": "BENIGN",
+    "parent_domain": "google.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "node-62.edge-chat.facebook.com",
+    "tool": "BENIGN",
+    "parent_domain": "facebook.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "edge-chat.facebook.com",
+    "tool": "BENIGN",
+    "parent_domain": "facebook.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "en.wikipedia.org",
+    "tool": "BENIGN",
+    "parent_domain": "wikipedia.org",
+    "is_tunneling": 0
+  },
+  {
+    "query": "api.github.com",
+    "tool": "BENIGN",
+    "parent_domain": "github.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "slack.com",
+    "tool": "BENIGN",
+    "parent_domain": "slack.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "node-18.cdn.discordapp.com",
+    "tool": "BENIGN",
+    "parent_domain": "discordapp.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "chat.openai.com",
+    "tool": "BENIGN",
+    "parent_domain": "openai.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "node-67.www.google.com",
+    "tool": "BENIGN",
+    "parent_domain": "google.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "api.spotify.com",
+    "tool": "BENIGN",
+    "parent_domain": "spotify.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "node-13.login.microsoftonline.com",
+    "tool": "BENIGN",
+    "parent_domain": "microsoftonline.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "i.imgur.com",
+    "tool": "BENIGN",
+    "parent_domain": "imgur.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "node-85.s3.dualstack.us-east-1.amazonaws.com",
+    "tool": "BENIGN",
+    "parent_domain": "amazonaws.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "edge-chat.facebook.com",
+    "tool": "BENIGN",
+    "parent_domain": "facebook.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "stackoverflow.com",
+    "tool": "BENIGN",
+    "parent_domain": "stackoverflow.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "prod.cloud.netflix.com",
+    "tool": "BENIGN",
+    "parent_domain": "netflix.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "i.imgur.com",
+    "tool": "BENIGN",
+    "parent_domain": "imgur.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "i.imgur.com",
+    "tool": "BENIGN",
+    "parent_domain": "imgur.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "node-17.en.wikipedia.org",
+    "tool": "BENIGN",
+    "parent_domain": "wikipedia.org",
+    "is_tunneling": 0
+  },
+  {
+    "query": "node-52.d3m7h8e2.cloudfront.net",
+    "tool": "BENIGN",
+    "parent_domain": "cloudfront.net",
+    "is_tunneling": 0
+  },
+  {
+    "query": "cdn.discordapp.com",
+    "tool": "BENIGN",
+    "parent_domain": "discordapp.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "i.imgur.com",
+    "tool": "BENIGN",
+    "parent_domain": "imgur.com",
+    "is_tunneling": 0
+  },
+  {
+    "query": "i.imgur.com",
+    "tool": "BENIGN",
+    "parent_domain": "imgur.com",
+    "is_tunneling": 0
+  }
+]
